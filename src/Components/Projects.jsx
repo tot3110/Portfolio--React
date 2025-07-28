@@ -27,7 +27,7 @@ const projectData = [
       'A simple Rock, Paper, Scissors game. Rules: Rock beats Scissors, Scissors beats Paper, Paper beats Rock.',
     tech: ['HTML', 'CSS', 'Javascript'],
     image: project3,
-    alt: 'Rock Paper Scissors Game',
+    alt: 'Rock Paper Scissor Game',
   },
 ];
 
